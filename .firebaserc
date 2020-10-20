@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "todos-f13fa": {
+      "hosting": {
+        "Todo-app": [
+          "todos-f13fa"
+        ]
+      }
+    }
+  }
+}
